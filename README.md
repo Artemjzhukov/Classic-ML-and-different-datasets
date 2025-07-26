@@ -5,4 +5,4 @@
 
 [**Binary Classification with KNN&LR&DT**](https://github.com/Artemjzhukov/Classic-ML-and-different-datasets/blob/main/Portuguese%20winequality/Readme.md)
 
-[**Multi_Classification with SVC and Modules**](Multi_class (SVC)/Readme.md)
+[**Multi_Classification with SVC and Modules**](https://github.com/Artemjzhukov/Classic-ML-and-different-datasets/blob/main/Multi_class%20(SVC)/Readme.md)
